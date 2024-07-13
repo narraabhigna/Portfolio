@@ -1,0 +1,128 @@
+[
+    {
+      "name": "Book Review System",
+      "desc": "The Book Review System allows users to explore a collection of books, read reviews, and submit their own ratings and reviews.",
+      "image": "bks",
+      "category": "wamp",
+      "links": {
+        "code": "https://github.com/narraabhigna/Book-review-system"
+      }
+    },
+    {
+        "name": "Vehicle Parking System",
+        "desc": "The system identifies parked cars within predefined parking spots and provides real-time updates on the availability of parking spaces.",
+        "image": "car",
+        "category": "ip",
+        "links": {
+          "code": "https://github.com/narraabhigna/Vehicle-parking-system"
+        }
+      },
+      {
+        "name": "Air Quality Analysis",
+        "desc": "This project leverages statistical tools and data visualization techniques to analyze air quality data from 2015 to 2020.",
+        "image": "air",
+        "category": "da",
+        "links": {
+          "code": "https://github.com/narraabhigna/Air-Quality-Analysis"
+        }
+      },
+      {
+        "name": "JOSAA Admission System",
+        "desc": "This system is a mini replica of the Joint Seat Allocation Authority (JOSAA).",
+        "image": "josaa",
+        "category": "oops",
+        "links": {
+          "code": "https://github.com/narraabhigna/JOSAA-admission-system"
+        }
+      },
+      {
+        "name": "Tic Tac Toe",
+        "desc": "This project is a web-based implementation of the classic Tic-Tac-Toe game. Players can enjoy the game against each other in a simple and interactive interface.",
+        "image": "tictactoe",
+        "category": "basicweb",
+        "links": {
+          "code": "https://github.com/narraabhigna/Tic-Tac-Toe"
+        }
+      },
+      {
+        "name": "Movie Rating Analysis",
+        "desc": "This project aims to analyze movie ratings data to gain insights into user preferences and trends.",
+        "image": "movie",
+        "category": "da",
+        "links": {
+          "code": "https://github.com/narraabhigna/movie-rating-analysis"
+        }
+      },
+      {
+        "name": "Single Page Book Review System",
+        "desc": "This project provides a single-page web application that allows users to browse, review, and rate books seamlessly. ",
+        "image": "spbks",
+        "category": "wamp",
+        "links": {
+          "code": "https://github.com/narraabhigna/Single-page-Book-review-system"
+        }
+      },
+      {
+        "name": "Feature Selection using GA",
+        "desc": "This project leverages a Genetic Algorithm approach to optimize feature selection for machine learning models, enhancing their performance and robustness.",
+        "image": "feature",
+        "category": "ml",
+        "links": {
+          "code": "https://github.com/narraabhigna/Feature-selection-using-Genetic-algorithm"
+        }
+      },
+      {
+        "name": "Pharmacy Management System",
+        "desc": "This project includes detailed documentation to guide the development and implementation process.",
+        "image": "pharmacy",
+        "category": "sdlc",
+        "links": {
+          "code": "https://github.com/narraabhigna/Pharmacy-Management-System"
+        }
+      },
+      {
+        "name": "Currency Convertor",
+        "desc": "This project provides a web application that allows users to convert amounts between different currencies using real-time exchange rates.",
+        "image": "currency",
+        "category": "basicweb",
+        "links": {
+          "code": "https://github.com/narraabhigna/currency-convertor"
+        }
+      },
+      {
+        "name": "Biodiversity Management System",
+        "desc": "This project provides a database for managing biodiversity data. It enables users to input and analyze data related to various species and their habitats.",
+        "image": "bio",
+        "category": "dbms",
+        "links": {
+          "code": "https://github.com/narraabhigna/Biodiversity-management-system"
+        }
+      },
+      {
+        "name": "Stone Paper Scissors",
+        "desc": "The Stone Paper and Scissors Game application allows users to play the game against the computer. ",
+        "image": "rock",
+        "category": "basicweb",
+        "links": {
+          "code": "https://github.com/narraabhigna/Stone-paper-and-scissors-game"
+        }
+      },
+      {
+        "name": "Line Encoding",
+        "desc": "This project is focused on implementing and analyzing various line encoding schemes used in digital communication systems.",
+        "image": "line",
+        "category": "cn",
+        "links": {
+          "code": "https://github.com/narraabhigna/line-encoding"
+        }
+      },
+      {
+        "name": "Book Review System using MVC",
+        "desc": "The MVC Book Review System provides an intuitive platform for users to explore a collection of books, read reviews, and submit their own ratings and reviews.",
+        "image": "mvcbks",
+        "category": "wamp",
+        "links": {
+          "code": "https://github.com/narraabhigna/MVC-Book-Review-System"
+        }
+      }
+  ]

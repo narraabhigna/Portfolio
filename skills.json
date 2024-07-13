@@ -1,0 +1,99 @@
+[
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/color/48/000000/c-programming.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript.png"
+    },
+    {
+        "name": "PHP",
+         "icon": "https://img.icons8.com/officel/48/php-logo.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "Express.js",
+        "icon": "https://img.icons8.com/ios/48/express-js.png"
+    },
+    {
+        "name": "NumPy",
+       "icon": "https://img.icons8.com/color/48/numpy.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/pastel-glyph/48/brain-3--v1.png"
+    },
+    {
+        "name": "Scikit-learn",
+        "icon": "https://img.icons8.com/pastel-glyph/48/brain-3--v1.png"
+    },
+    {
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/color/48/000000/opencv.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/fluent/48/000000/github.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/000000/linux.png"
+    },
+    {
+        "name": "LaTeX",
+        "icon": "https://img.icons8.com/color/48/000000/latex.png"
+    },
+    {
+        "name": "VSCode",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/color/48/000000/canva.png"
+    }
+        
+]
