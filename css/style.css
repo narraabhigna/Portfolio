@@ -1282,5 +1282,22 @@ form .button-area {
     font-weight: 500;
     line-height: 1.6;
   }
+   .box-wrapper {
+    border: 2px solid #000; /* Border color and thickness */
+    border-radius: 15px; /* Curved edges */
+    padding: 20px; /* Spacing inside the box */
+    background-color: #f9f9f9; /* Background color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for a 3D effect */
+    margin: auto; /* Center the box */
+}
+.content h3 {
+    margin-top: 0;
+}
+.box-container {
+    margin-top: 20px;
+}
+.resumebtn .btn i {
+    margin-left: 10px;
+}
   
   
