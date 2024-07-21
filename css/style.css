@@ -1328,7 +1328,7 @@ form .button-area {
 }
 /*circles on timeline*/
 .achievements .container::after {
-  content: "\f0b1";
+  content: "\f091";
   position: absolute;
   width: 25px;
   height: 25px;
