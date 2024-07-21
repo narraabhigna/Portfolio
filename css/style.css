@@ -1301,12 +1301,12 @@ form .button-area {
 }
   
   /* achievements section starts */
-.achievements .timeline {
+.achievements .timeline1 {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
 }
-.achievements .timeline::after {
+.achievements .timeline1::after {
   content: "";
   position: absolute;
   width: 6px;
@@ -1435,10 +1435,10 @@ form .button-area {
   .achievements {
     min-height: 80vh;
   }
-  .achievements .timeline {
+  .achievements .timeline1 {
     margin-top: 2rem;
   }
-  .achievements .timeline::after {
+  .achievements .timeline1::after {
     left: 31px;
   }
   .achievements .container {
