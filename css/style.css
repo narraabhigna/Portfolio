@@ -1301,6 +1301,9 @@ form .button-area {
 }
   
   /* achievements section starts */
+.container .content::before {
+    content: none; /* Remove any icon if it's set */
+}
 .achievements .timeline1 {
   position: relative;
   max-width: 1200px;
