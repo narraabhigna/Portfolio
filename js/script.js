@@ -213,9 +213,9 @@ srtop.reveal('.skills .container .bar', { delay: 400 });
 
 /* SCROLL EDUCATION */
 srtop.reveal('.education .box', { interval: 200 });
-
+srtop.reveal('.responsibilities .box', { interval: 200 });
 /* SCROLL PROJECTS */
-srtop.reveal('.work .box', { interval: 200 });
+srtop.reveal('.project .box', { interval: 200 });
 
 /* SCROLL EXPERIENCE */
 srtop.reveal('.experience .timeline', { delay: 400 });
