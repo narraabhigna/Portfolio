@@ -1328,21 +1328,24 @@ form .button-area {
 }
 /*circles on timeline*/
 .achievements .container::after {
-  content: "\f091";
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  right: -17px;
-  background-color: rgb(255, 255, 255);
-  border: 4px solid #ff9f55;
-  top: 15px;
-  border-radius: 50%;
-  z-index: 100;
-  font-size: 1rem;
-  text-align: center;
-  font-weight: 600;
-  color: #02094b;
-  font-family: "Font Awesome\ 5 Free";
+    content: "\f091"; /* Unicode for Font Awesome trophy icon */
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -17px;
+    background-color: rgb(255, 255, 255);
+    border: 4px solid #ff9f55;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 100;
+    font-size: 1.86rem;
+    text-align: center;
+    font-weight: 900; /* Ensure correct weight for icon */
+    color: #02094b;
+    font-family: "Font Awesome 5 Free"; /* Ensure correct font family */
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .achievements .left {
   left: 0;
