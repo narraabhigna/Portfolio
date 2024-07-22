@@ -221,8 +221,8 @@ srtop.reveal('.project .box', { interval: 200 });
 srtop.reveal('.experience .timeline', { delay: 400 });
 srtop.reveal('.experience .timeline .container', { interval: 400 });
 /* SCROLL Achievemnts */
-srtop.reveal('.achievements .timeline', { delay: 400 });
-srtop.reveal('.achievements .timeline .container', { interval: 400 });
+srtop.reveal('.achievements .timeline1', { delay: 400 });
+srtop.reveal('.achievements .timeline1 .container', { interval: 400 });
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });
 srtop.reveal('.contact .container .form-group', { delay: 400 });
