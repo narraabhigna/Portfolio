@@ -59,7 +59,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Machine Learning","Data Analysis", "Business Analysis" , "backend development","frontend development"],
+    strings: ["backend development","frontend development", "Machine Learning","Data Analysis", "Business Analysis"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
